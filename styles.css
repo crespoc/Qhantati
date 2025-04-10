@@ -228,8 +228,8 @@ body {
   
   .logo-main {
     text-transform: uppercase;
-    /*border-bottom: 3px solid #0047ab;*/
-    padding-bottom: 4px;
+    border-bottom: 3px solid #0047ab;
+    padding-bottom: 1px;
     margin-right: 8px;
   }
   
